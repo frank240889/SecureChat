@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SecureChat</string>
+    <string name="write_down_message_placeholder">Escribe tu mensaje</string>
+    <string name="no_messages">Sin mensajes</string>
+    <string name="empty_message">No puedes enviar un mensaje vacío</string>
+    <string name="connect">Conectar</string>
+    <string name="not_connected">Pulsa conectar para buscar un dispositivo y chatear.</string>
+    <string name="device_found">Dispositivo encontrado.</string>
+    <string name="device_not_found">No se encontraron dispositivos.</string>
+    <string name="connected_to_device">Conectado a dispositivo.</string>
+    <string name="connecting_to_device">Conectando a dispositivo</string>
+    <string name="stablishing_connection_to_device">Estableciendo comunicación con el dispositivo</string>
+    <string name="device_searching_error">Ha ocurrido un error, verifica que ambos dispositivos se encuentre en la misma red.</string>
+    <string name="starting_server">Inicialiando servidor…</string>
+    <string name="remove_device_connection_lost">Se perdió la conexión con el dispositivo, intentanto reestablecerla.</string>
+    <string name="me">Yo</string>
+    <string name="another_person">Otra persona</string>
+    <string name="creating_keys">Creando llaves</string>
+    <string name="keys_created">Llaves creadas</string>
+    <string name="sharing_public_key">Compartiendo llave publica</string>
+    <string name="shared_public_key">Llave publica enviada</string>
+    <string name="registering_service_on_network">Registrando servicio en la red</string>
+    <string name="registered_service_on_network">Servicio registrado exitósamente</string>
+    <string name="searching_devices">Buscando dispositivos para conectarse.</string>
+</resources>
